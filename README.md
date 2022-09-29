@@ -30,6 +30,30 @@ The images below describe several steps for preprocessing such as:
  - The features from the X DataFrame have been standardized using the StandardScaler fit_transform() function
 
 
+<img width="1008" alt="Screen Shot 2022-09-28 at 9 40 40 PM" src="https://user-images.githubusercontent.com/102444078/192940399-5cfaed71-407e-4949-9ff8-c7a61f148b80.png">
+
+
+
+
+
+<img width="1011" alt="Screen Shot 2022-09-28 at 9 40 57 PM" src="https://user-images.githubusercontent.com/102444078/192940438-828d9e2c-7783-410b-8e0e-5383287acb99.png">
+
+
+
+
+
+<img width="1002" alt="Screen Shot 2022-09-28 at 9 41 11 PM" src="https://user-images.githubusercontent.com/102444078/192940476-947626bc-552c-404e-8b0c-9ff106c29615.png">
+
+
+
+<img width="1016" alt="Screen Shot 2022-09-28 at 9 41 29 PM" src="https://user-images.githubusercontent.com/102444078/192940527-d9d82b22-7517-47c9-9597-773ef75d7b94.png">
+
+
+
+
+
+<img width="1016" alt="Screen Shot 2022-09-28 at 9 41 44 PM" src="https://user-images.githubusercontent.com/102444078/192940556-90e89833-9543-48c7-acb1-0c7a15c3b8e6.png">
+
 
 
 

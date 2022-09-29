@@ -65,11 +65,27 @@ The images below show the code used for reducing dimensions
 
 
 
+<img width="1012" alt="Screen Shot 2022-09-28 at 9 42 20 PM" src="https://user-images.githubusercontent.com/102444078/192940623-f3bdb58f-36fa-49ef-a13a-7f36a965a111.png">
+
+
+
+
+
+
+
 
 
 ### Clustering Crytocurrencies Using K-Means
 
-The images below show the elbow curve...
+The images below show the elbow curve. The optimal number of clusters was determined to be 4. 
+
+
+
+
+
+<img width="1004" alt="Screen Shot 2022-09-28 at 9 43 17 PM" src="https://user-images.githubusercontent.com/102444078/192940725-f1cfd254-f19b-4ab0-9cf5-9c74290d405f.png">
+
+
 
 
 
@@ -78,7 +94,23 @@ The images below show the elbow curve...
 
 ### Visualizing Cryptocurrencies Results
 
-The images below show the 3D plot and scatter plot 
+The images below show the 3D plot and scatter plot and hvTable. 
+
+
+<img width="1015" alt="Screen Shot 2022-09-28 at 9 44 31 PM" src="https://user-images.githubusercontent.com/102444078/192940875-06634408-4f92-44fa-90f6-7bc82ad8254a.png">
+
+
+
+
+<img width="1009" alt="Screen Shot 2022-09-28 at 9 44 47 PM" src="https://user-images.githubusercontent.com/102444078/192940899-727f209e-a0aa-4c2f-8c7d-cbeeafc98232.png">
+
+
+
+
+<img width="1016" alt="Screen Shot 2022-09-28 at 9 45 11 PM" src="https://user-images.githubusercontent.com/102444078/192940963-5567dec5-a816-4e26-b2bc-b9091b208b09.png">
+
+
+
 
 
 

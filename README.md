@@ -114,4 +114,3 @@ The images below show the 3D plot and scatter plot and hvTable.
 
 
 
-## Summary

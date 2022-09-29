@@ -3,7 +3,9 @@
 
 ## Project Overview
 
-The purpose of this project is to analyze cryptocurrency data using Unsupervised Machine Learning. The original cryptocurrency data from CryptoCompare is preprocessed using Pandas to fit Unsupervised Machine Learning models. A clustering algorithm is used to group data and hvPlot visualization are used to share results.
+Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers.
+
+The purpose of this project is to preprocess cryptocurrency data to use in unsupervised machine learning. In order to group the crypotocurrencies, we use a clustering algorithm. We also use data visualizations to share our findings. This is done to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment. 
 
 
 ## Challenge Overview
